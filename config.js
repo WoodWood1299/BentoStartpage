@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: "Late Night",
 
   // Layout
-  bentoLayout: "lists", // 'bento', 'lists', 'buttons', 
+  bentoLayout: "bento", // 'bento', 'lists', 'buttons', 
 
   // ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
   // ├┴┐│ │ │  │ │ ││││└─┐
