@@ -17,13 +17,13 @@ const CONFIG = {
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: "Morning",
+  greetingMorning: "Too Early",
   greetingAfternoon: "Afternoon",
-  greetingEvening: "Evening",
-  greetingNight: "Night",
+  greetingEvening: "Good Evening",
+  greetingNight: "Late Night",
 
   // Layout
-  bentoLayout: "bento", // 'bento', 'lists', 'buttons', 
+  bentoLayout: "lists", // 'bento', 'lists', 'buttons', 
 
   // ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
   // ├┴┐│ │ │  │ │ ││││└─┐
