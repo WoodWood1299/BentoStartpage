@@ -62,9 +62,9 @@ const CONFIG = {
     },
     {
       id: "6",
-      name: "Zalo",
-      icon: "message-circle-heart",
-      link: "https://chat.zalo.me/",
+      name: "Leic",
+      icon: "library-big",
+      link: "https://leic.pt",
     },
   ],
 };
