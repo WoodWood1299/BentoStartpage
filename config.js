@@ -38,9 +38,9 @@ const CONFIG = {
     },
     {
       id: "2",
-      name: "Facebook",
-      icon: "facebook",
-      link: "https://facebook.com/",
+      name: "Fenix",
+      icon: "graduation-cap",
+      link: "https://fenix.tecnico.ulisboa.pt/",
     },
     {
       id: "3",
@@ -56,7 +56,7 @@ const CONFIG = {
     },
     {
       id: "5",
-      name: "X",
+      name: "Twitter",
       icon: "twitter",
       link: "https://x.com",
     },
