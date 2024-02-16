@@ -17,7 +17,7 @@ const CONFIG = {
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: "Too Early",
+  greetingMorning: "Good Morning",
   greetingAfternoon: "Afternoon",
   greetingEvening: "Good Evening",
   greetingNight: "Late Night",
