@@ -57,8 +57,8 @@ const CONFIG = {
     {
       id: "5",
       name: "Deezer",
-      icon: "nf-md-music",
-      link: "https://deezer.com",
+      icon: "nf-fa-music",
+      link: "https://deezer.com/en",
     },
     {
       id: "6",
