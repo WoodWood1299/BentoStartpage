@@ -4,17 +4,16 @@
     --wallpaper: assets/img/ferdinand-ladera-rice-terraces.jpg;
 
     /* Special */
-    --background: #0D0B10;
-    --foreground: #bfc0c0;
-    --cursor: #bfc0c0;
+    --background: #19210C;
+    --foreground: #AB8E93;
+    --cursor: #E0F2EF;
 
     /* Colors */
     --color0: #19210C;
     --color1: #AB8E93;
     --color2: #3C4B24;
     --color3: #D4BC7F;
-    /*--color4: #6CB1D2; */
-    --color4: #BFCA4A;
+    --color4: #6CB1D2;
     --color5: #434864;
     --color6: #8BB7AA;
     --color7: #9EBEE5;
