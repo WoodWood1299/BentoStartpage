@@ -28,7 +28,7 @@
 
 .container {
   /* Dark Colors  */
-  --accent: var(--color4); /* Hover color */
+  --accent: var(--color10); /* Hover color */
   --cards: var(--color0); /* Cards color */
 
   /* Fonts Color */
@@ -55,8 +55,7 @@
 body {
   width: 100vw;
   height: 100vh;
-  /*background-color: var(--background);*/
-  background-color:#BFCA4A;
+  background-color: var(--background);
   display: flex;
   align-items: center;
   justify-content: center;
